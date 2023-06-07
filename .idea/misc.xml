@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/drawable/bg_edittext.xml" value="0.332" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/drawable/bg_edittext_rounded.xml" value="0.332" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/drawable/item_gradien.xml" value="0.332" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/activity_detail_meals.xml" value="0.3625" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/activity_meals.xml" value="0.3625" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/activity_search.xml" value="0.3625" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/activity_splash.xml" value="0.3625" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/blank_fragment.xml" value="0.3625" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/item_meals.xml" value="0.3625" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/item_news_shimmer_placeholder.xml" value="0.3625" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/item_recipe_category.xml" value="0.4233576642335766" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/layout_collapse_bar.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/layout_collapse_bar_group.xml" value="0.3625" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/layout_shimmer.xml" value="0.25" />
+        <entry key="..\:/Users/sulistyo/AndroidStudioProjects/MasakApa/app/src/main/res/layout/layout_toolbar.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
